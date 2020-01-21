@@ -2,8 +2,6 @@
 """*********************************************************************************************"""
 #   FileName     [ train_utils.py ]
 #   Synopsis     [ helper functions for train.py ]
-#   Author       [ Ting-Wei Liu (Andi611) ]
-#   Copyright    [ Copyleft(c), NTUEE, NTU, Taiwan ]
 """*********************************************************************************************"""
 
 
