@@ -2,8 +2,6 @@
 """*********************************************************************************************"""
 #   FileName     [ dump_tfrecord.py ]
 #   Synopsis     [ generate .wav audios from .tfrecord files ]
-#   Author       [ Ting-Wei Liu (Andi611) ]
-#   Copyright    [ Copyleft(c), NTUEE, NTU, Taiwan ]
 """*********************************************************************************************"""
 
 
