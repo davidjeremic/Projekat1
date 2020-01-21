@@ -2,8 +2,6 @@
 """*********************************************************************************************"""
 #   FileName     [ runner.py ]
 #   Synopsis     [ main program that runs everything, execute this ]
-#   Author       [ Ting-Wei Liu (Andi611) ]
-#   Copyright    [ Copyleft(c), NTUEE, NTU, Taiwan ]
 """*********************************************************************************************"""
 
 
