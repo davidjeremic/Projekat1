@@ -2,8 +2,6 @@
 """*********************************************************************************************"""
 #   FileName     [ visualize_wav.py ]
 #   Synopsis     [ generate .tfrecord files from .wav audios ]
-#   Author       [ Ting-Wei Liu (Andi611) ]
-#   Copyright    [ Copyleft(c), NTUEE, NTU, Taiwan ]
 """*********************************************************************************************"""
 
 
