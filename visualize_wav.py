@@ -2,8 +2,6 @@
 """*********************************************************************************************"""
 #   FileName     [ visualize_wav.py ]
 #   Synopsis     [ generate .jpeg images from .wav audios ]
-#   Author       [ Ting-Wei Liu (Andi611) ]
-#   Copyright    [ Copyleft(c), NTUEE, NTU, Taiwan ]
 """*********************************************************************************************"""
 
 
