@@ -2,8 +2,6 @@
 """*********************************************************************************************"""
 #   FileName     [ config.py ]
 #   Synopsis     [ configuration settings ]
-#   Author       [ Ting-Wei Liu (Andi611) ]
-#   Copyright    [ Copyleft(c), NTUEE, NTU, Taiwan ]
 """*********************************************************************************************"""
 
 import argparse
