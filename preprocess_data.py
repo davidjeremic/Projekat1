@@ -2,8 +2,6 @@
 """*********************************************************************************************"""
 #   FileName     [ preprocess_data.py ]
 #   Synopsis     [ reprocess .wav files into clean and aligned .wav audios files ]
-#   Author       [ Ting-Wei Liu (Andi611) ]
-#   Copyright    [ Copyleft(c), NTUEE, NTU, Taiwan ]
 """*********************************************************************************************"""
 
 
