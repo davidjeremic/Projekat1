@@ -2,8 +2,6 @@
 """*********************************************************************************************"""
 #   FileName     [ generate.py ]
 #   Synopsis     [ Generate wavefroms from trained model as .jpeg images and .wav audios ]
-#   Author       [ Ting-Wei Liu (Andi611) ]
-#   Copyright    [ Copyleft(c), NTUEE, NTU, Taiwan ]
 """*********************************************************************************************"""
 
 
